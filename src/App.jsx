@@ -1,15 +1,22 @@
 import React from 'react'
 import Header from './component/Header.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Card from './component/Card.jsx';
-import Footer from "./component/Footer.jsx";
+import Card from './Component/card .jsx';
+import Footer from "./Component/Footer.jsx";
+
 
 const App = () => {
   return (
     <div>
-      <Header />
-      <Card />
-      <Footer />
+    <>
+    <Header />
+    </>
+    <>
+    <Card />
+    </>
+    <>
+    <Footer />
+    </>
     </div>
   )
 }
