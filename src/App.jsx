@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './component/Header.jsx'
+import Header from './Component/Header.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from './Component/card .jsx';
 import Footer from "./Component/Footer.jsx";
